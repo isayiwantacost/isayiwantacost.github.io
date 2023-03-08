@@ -1,0 +1,19 @@
+body {
+    background-color: #3256a8;
+    color: #02162e;
+    width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+.h1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.li {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
