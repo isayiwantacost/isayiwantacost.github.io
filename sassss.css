@@ -17,3 +17,7 @@ body {
 .li {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+a.italic {
+  font-style: italic;
+}
